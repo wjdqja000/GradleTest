@@ -1,4 +1,4 @@
-package springboot.web;
+package com.gradletest.springboot.web;
 
 import com.gradletest.springboot.web.dto.HelloResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package springboot.web.dto;
+package com.gradletest.springboot.web.dto;
 
 import com.gradletest.springboot.web.dto.HelloResponseDto;
 import lombok.Getter;

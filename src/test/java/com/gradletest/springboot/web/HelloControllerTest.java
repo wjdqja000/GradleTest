@@ -1,4 +1,4 @@
-package springboot.web;
+package com.gradletest.springboot.web;
 
 import org.hamcrest.Matchers;
 import org.junit.Test;
